@@ -1,5 +1,13 @@
+
 @media (max-width: 1300px) {
     .banner_bg {
         background-size: contain;
+    }
+}
+
+@media (max-width: 1050px) {
+    .header_menu ul li a {
+        padding: 0px 8px;
+        font-size: 14px;
     }
 }
