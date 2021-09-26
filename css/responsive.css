@@ -5,6 +5,12 @@
     }
 }
 
+@media (max-width: 1263px) {
+    body{
+        overflow-x: hidden;
+    }
+  
+}
 @media (max-width: 1106px) {
     .banner_content {
         padding-top: 243px;
