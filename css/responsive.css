@@ -5,9 +5,44 @@
     }
 }
 
-@media (max-width: 1050px) {
+@media (max-width: 1106px) {
+    .banner_content {
+        padding-top: 243px;
+    }
+    .banner_section h1 {
+        font-size: 45px;
+        margin-bottom: 12px;
+    }
+    .banner_section span {
+        margin-bottom: 40px;
+    }
+    .header_menu ul {
+        width: 100%;
+        text-align: right;
+    }
     .header_menu ul li a {
         padding: 0px 8px;
         font-size: 14px;
+    }
+}
+
+
+
+
+@media (max-width: 1050px) {
+    .banner_content {
+        padding-top: 200px;
+    }
+    .banner_section h1 {
+        font-size: 43px;
+    }
+    .banner_section span {
+        margin-bottom: 48px;
+    }
+}
+
+@media (max-width: 9040px) {
+    .banner_content {
+        padding-top: 187px;
     }
 }
