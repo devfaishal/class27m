@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    font-family: sans-serif;
+}
+.main_website {
+    width: 100%;
+    height: 100%;
+}
 /* Shotcut Csss */
 .text_center {
     text-align: center;
@@ -46,12 +54,12 @@
     display: inline-block;
 }
 .header_menu ul li a {
-    color: #cef1eb;
-    text-decoration: none;
-    padding: 0px 10px;
-    display: inline-block;
-    font-size: 15px;
-    font-weight: 200;
+	color: #cef1eb;
+	text-decoration: none;
+	padding: 0px 10px;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: 501;
 }
 .header_menu ul li a:hover {
 }
