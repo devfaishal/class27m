@@ -68,13 +68,12 @@ body{
 	color: #fff;
 	font-size: 65px;
 	margin-bottom: 20px;
-	font-weight: 600;
 }
 .banner_text h4 {
 	color: #fff;
-	font-size: 24px;
+	font-size: 25px;
 	margin-bottom: 50px;
-	font-weight: 601;
+    
 }
 .banner_item a{
     display: inline-block;
@@ -116,24 +115,24 @@ body{
     margin-bottom: 140px;
     text-align: center;
 }
-.card_item {
-	float: left;
-	width: 22%;
-	margin: auto;
-	text-align: center;
-	padding: 20px;
-	margin-left: 2%;
+.card_item{
+    float: left;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    margin-left: 4%;
 }
 .card_item span i {
 	font-size: 40px;
 	color: #25c5a5;
 	margin-bottom: 30px;
 }
-.card_item h2 {
-	margin-bottom: 10px;
-	color: #666666;
-	font-family: sans-serif;
-	font-size: 24px;
+.card_item h2{
+    margin-bottom: 10px;
+    color: rgba(17, 17, 17, 0.753);
+    font-family: sans-serif;
+    font-size: 24px;
 }
 .card_item p {
 	font-size: 16px;
@@ -154,30 +153,29 @@ body{
     text-align: center;
     margin-bottom: 50px;
 }
-.about_title h2{
-    margin-bottom: 20px;
-    font-size:35px;
-    color: rgba(17, 17, 17, 0.753);
+.about_title h2 {
+	margin-bottom: 20px;
+	font-size: 35px;
+	color: rgba(17, 17, 17, 0.753);
+	font-weight: 600;
 }
 .about_title p{
     font-size: 16px;
     color:#888888;
     font-family: sans-serif;
 }
-.about_img{
-    width: 40%;
-    display:inline-block;
-    font-family: sans-serif;
-    text-align: left;
+.about_img {
+	width: 47%;
+	display: inline-block;
+	font-family: sans-serif;
+	text-align: left;
 }
-.about_img img{
-    max-width:100% ;
-}
+
 .about_text {
 	font-family: sans-serif;
 	text-align: left;
 	display: inline-block;
-	width: 45%;
+	width: 49%;
 	top: -55px;
 	position: relative;
 }
@@ -187,11 +185,12 @@ body{
 	margin-bottom: 12px;
     color:#686767;
 }
-.about_text p{
-    margin-bottom: 20px;
-    color:#888888;
+.about_text p {
+	margin-bottom: 20px;
+	color: #888888;
+	font-size: 15px;
+	line-height: 21px;
 }
-
 /* Contact  Sectoin  */
 .contact_section{
     background:#f6f6f6 ;
@@ -209,10 +208,11 @@ body{
     margin-bottom: 10px;
     display: block;
 }
-.contact_title h2{
-    margin-bottom: 30px;
-    font-size:35px;
-    color: rgba(17, 17, 17, 0.753);
+.contact_title h2 {
+	margin-bottom: 30px;
+	font-size: 35px;
+	color: rgba(17, 17, 17, 0.753);
+	font-weight: 600;
 }
 .contact_title p{
     font-size: 16px;
