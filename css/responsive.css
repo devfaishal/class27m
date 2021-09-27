@@ -80,8 +80,6 @@
     .card_item h2 {
         font-size: 20px;
     }
-
-
     .about_img {
         margin-right: 0px;
     }
@@ -141,9 +139,6 @@
         text-align: center;
         padding: 20px;
     }
-
-
-
     .about_text {
         padding: 56px 110px;
     }
@@ -151,8 +146,6 @@
         margin-top: 40px;
         margin-bottom: 20px;
     }
-
-
     .border_box{
         border-bottom: 2px solid #00b890;
     }
@@ -198,11 +191,8 @@
     .service_card {
         padding: 30px 0;
     }
-    
-
-
     .about_text {
-        padding: 50px 85px;
+        padding: 50px 76px;
     }
     .contact_area {
         float: left;
@@ -223,8 +213,6 @@
         width: 100%;
 
     }
-
-
     .contact_info {
         margin-bottom: 290px;
     }
@@ -258,7 +246,6 @@
 }
 
 
-
 @media (max-width: 630px) {
     .header_section {
         padding: 60px 0;
@@ -283,11 +270,9 @@
     }
     .about_title h2 {
         font-size: 30px;
-
     }
     .service_title h2 {
         font-size: 30px;
-
     }
     .contact_title h2 {
         font-size: 30px;
@@ -305,7 +290,16 @@
     }
 }
 
-
+@media (max-width: 600px) {
+    .about_img {
+        width: 100%;
+        text-align: center;
+        padding: 0 10px;
+    }
+    .about_img img{
+        max-width: 100%;
+    }
+}
 
 @media (max-width: 375px) {
     .banner_section {
